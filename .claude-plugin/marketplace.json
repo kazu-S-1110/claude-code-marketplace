@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "k-shiraishi-plugins",
+  "version": "1.0.0",
+  "description": "Personal Claude Code plugins by k-shiraishi",
+  "owner": {
+    "name": "k-shiraishi"
+  },
+  "plugins": [
+    {
+      "name": "ai-delegator",
+      "description": "Delegate tasks to Gemini and Codex for second opinions",
+      "version": "1.0.0",
+      "source": "./plugins/ai-delegator",
+      "category": "productivity"
+    }
+  ]
+}

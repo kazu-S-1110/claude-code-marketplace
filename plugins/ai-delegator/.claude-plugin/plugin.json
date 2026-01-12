@@ -1,0 +1,8 @@
+{
+  "name": "ai-delegator",
+  "version": "1.0.0",
+  "description": "Delegate tasks to Gemini and Codex for second opinions. Use for design review, code review, and technical research.",
+  "author": {
+    "name": "k-shiraishi"
+  }
+}
